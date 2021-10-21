@@ -4,3 +4,6 @@ cd -
 cat > file.txt (ctrl+D)
 cat >> file.txt (append update data on file) same as echo "hi" >> file.txt 
 
+find /s -name file.txt
+
+locate file.txt
